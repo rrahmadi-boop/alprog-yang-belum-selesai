@@ -1,0 +1,3 @@
+﻿  main.cpp
+D:\Tugas Akhir\latihan 2 p5\latihan 2 p5\main.cpp(11,17): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  latihan 2 p5.vcxproj -> D:\Tugas Akhir\latihan 2 p5\x64\Debug\latihan 2 p5.exe
