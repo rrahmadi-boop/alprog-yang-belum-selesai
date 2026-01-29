@@ -1,0 +1,4 @@
+﻿  main.cpp
+D:\Tugas Akhir\Praktikum 2 25.11.6513\Praktikum 2 25.11.6513\main.cpp(8,27): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Tugas Akhir\Praktikum 2 25.11.6513\Praktikum 2 25.11.6513\main.cpp(19,36): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Praktikum 2 25.11.6513.vcxproj -> D:\Tugas Akhir\Praktikum 2 25.11.6513\x64\Debug\Praktikum 2 25.11.6513.exe
